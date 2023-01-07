@@ -1,0 +1,42 @@
+{
+  "thumbnail": {
+    "img": "https://images.pexels.com/photos/4064432/pexels-photo-4064432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "caption": "Indian Forest"
+  },
+  "carbonLevel": 30,
+  "change": {
+    "change": "Rise",
+    "amount": 5
+  },
+  "fact": "At present Automobiles contribute whooping 56% to the whole carbon generated",
+  "newsArray": {
+    "1": {
+      "id": "12345",
+      "img": "https://images.pexels.com/photos/4064432/pexels-photo-4064432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "headline": "The globe is seeing a whooping 20% rise in temperature.",
+      "time": "10 mins",
+      "views": "1234"
+    },
+    "2": {
+      "id": "12345",
+      "img": "https://images.pexels.com/photos/4064432/pexels-photo-4064432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "headline": "The globe is seeing a whooping 20% rise in temperature.",
+      "time": "10 mins",
+      "views": "1234"
+    },
+    "3": {
+      "id": "12345",
+      "img": "https://images.pexels.com/photos/4064432/pexels-photo-4064432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "headline": "The globe is seeing a whooping 20% rise in temperature.",
+      "time": "10 mins",
+      "views": "1234"
+    },
+    "4": {
+      "id": "12345",
+      "img": "https://images.pexels.com/photos/4064432/pexels-photo-4064432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "headline": "The globe is seeing a whooping 20% rise in temperature.",
+      "time": "10 mins",
+      "views": "1234"
+    }
+  }
+}
